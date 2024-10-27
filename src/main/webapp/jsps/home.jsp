@@ -76,7 +76,7 @@
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 Lendi Institute of Engineering & Technology</p>
+    <p>&copy; 2024 Lalitha Institute of Engineering & Technology</p>
 </footer>
 
 </body>
